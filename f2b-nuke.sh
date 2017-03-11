@@ -5,7 +5,7 @@
 # Version : V0.22E (Experimental)		    #
 # Date : 11/3/2017				    #
 # Author : necpock / Joe			    #
-# mail: necpock@gmail.com			    #
+# twitter: @WJ0S3PH				    #
 # Site : jsephler.co.uk				    #
 # Desc. Unbans all IP's from selected fail2ban jail #
 # License : MIT					    #
