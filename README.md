@@ -3,7 +3,7 @@ f2b-nuke is a bash script to manipulate fail2ban-client to unban IP's properly, 
 Interactive script.. no args
 
 This script assumes the following:
-You have fail2ban installed, as well as sed, wc, grep, cat and bash
+You have fail2ban installed, as well as wc, grep, cat and bash
 It also assumes that you are running with a non-root user and require sudo to call fail2ban-client
 
 # Usage
