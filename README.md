@@ -1,3 +1,7 @@
+# Archival Notice
+This repository has now been archived; although in some edge-cases it may still be useful, it will no longer be maintained and should be considered unmaintainable.
+Thanks!
+
 # f2b-nuke
 f2b-nuke is a bash script to manipulate fail2ban-client to unban IP's properly, en masse.
 Interactive script.. no args
